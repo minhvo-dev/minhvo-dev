@@ -3,7 +3,8 @@
 <h4 align="center">
 <a href="https://www.linkedin.com/in/tue-minh-dinh-vo/" target="_blank"><img alt="Linked In" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/tue_minh" target="_blank"><img alt="HackerRank" width="26px" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"/></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vodinhtueminh/" target="_blank"><img alt="Facebook" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://twitter.com/minhvo_dev" target="_blank"><img alt="Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/tueminhdinhvo/" target="_blank"><img alt="Facebook" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </h4>   
 
 <h2> ✍ About me </h2>   
@@ -14,9 +15,8 @@
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
 - 😂 Fun facts:
-    - 🍚 I can make rice, of course.
-    - 🎸 I can use a guitar to make sound ~~till something of the guitar goes wrong~~.
-    - 😑 People sometimes call me Dinh ❌, Tuệ ❌, Tuệ Minh ✔
+    - 🐛 Most of the code visible in my github page are not runnable.
+    - <img alt="Pikachu" width="26px" src="https://img.icons8.com/color/344/pikachu-pokemon.png"> is overrated, <img alt="Eevee" width="26px" src="https://img.icons8.com/color/344/eevee.png"> ftw !!!
     - ⚡ I ❤ 🐶 😸
 
 <h2> 🔧 Technologies and Tools </h2>   
@@ -38,4 +38,14 @@
 
 <h2> 📈 GitHub Stats</h2>
 
-<img alt="Minh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhvo-dev&show_icons=true&hide_border=true&count_private=true"/>
+>Note: These stats are just a github metric, they do not indicate my skill level by any means.   
+
+<details>
+    <summary>Github Stats</summary>
+    <img alt="Minh's Github Stats" src="https://github-readme-stats-clone.minhvo-dev.vercel.app/api?username=minhvo-dev&show_icons=true&hide_border=true&count_private=true"/>
+</details>
+
+<details>
+    <summary>Most Used Languages</summary>
+    <img alt="Minh's Most Used Languages" src="https://github-readme-stats-clone.minhvo-dev.vercel.app/api/top-langs/?username=minhvo-dev&layout=compact"/>
+</details>
