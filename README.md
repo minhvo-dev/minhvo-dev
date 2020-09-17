@@ -10,7 +10,7 @@
 <h2> ✍ About me </h2>   
 
 - 🎓 I am currently a Computer Science student. 
-- 📚 I am currently learning Web Development with WSL, Python and React.js.
+- 🔍 I am currently finding the 'any' key to close the debugging console.
 - 🤓 I have passion for learning technologies.
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
@@ -42,10 +42,5 @@
 
 <details>
     <summary>Github Stats</summary>
-    <img alt="Minh's Github Stats" src="https://github-readme-stats-clone.minhvo-dev.vercel.app/api?username=minhvo-dev&show_icons=true&hide_border=true&count_private=true"/>
-</details>
-
-<details>
-    <summary>Most Used Languages</summary>
-    <img alt="Minh's Most Used Languages" src="https://github-readme-stats-clone.minhvo-dev.vercel.app/api/top-langs/?username=minhvo-dev&layout=compact"/>
+    <img alt="Minh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhvo-dev&show_icons=true&hide_border=true&count_private=true"/>
 </details>
