@@ -18,6 +18,7 @@
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
 - 😂 Fun facts:
+    - I am a programmer. But instead of coffee, I can run on water to produce code 😎   
     - <a href="https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)" target="_blank"><img alt="Pikachu" width="26px" src="https://img.icons8.com/color/344/pikachu-pokemon.png"></a> is overrated, <a href="https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)" target="_blank"><img alt="Eevee" width="26px" src="https://img.icons8.com/color/344/eevee.png"></a> ftw !!!
     - I ❤ 🐶 😸
 
