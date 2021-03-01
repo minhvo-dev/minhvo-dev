@@ -18,7 +18,7 @@
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
 - 😂 Fun facts:
-    - I am a programmer. But instead of coffee, I can run on water to produce code 😎   
+    - I am a programmer. But instead of ☕, I can run on 💧 to produce code 😎   
     - <a href="https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)" target="_blank"><img alt="Pikachu" width="26px" src="https://img.icons8.com/color/344/pikachu-pokemon.png"></a> is overrated, <a href="https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)" target="_blank"><img alt="Eevee" width="26px" src="https://img.icons8.com/color/344/eevee.png"></a> ftw !!!
     - I ❤ 🐶 😸
 
@@ -36,7 +36,7 @@
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="sql" width="26px" src="https://img.icons8.com/ultraviolet/452/database.png" /></a>
 <br/>
 <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img alt="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a> &nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/React_(web_framework)" target="_blank"><img alt="react" width="26px" src="https://github.com/github/explore/blob/master/topics/react/react.png" /></a> &nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/React_(web_framework)" target="_blank"><img alt="react" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png" /></a> &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank"><img alt="graphql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" /></a> &nbsp;&nbsp;
 <!--
 <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank"><img alt="vs" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" /></a> &nbsp;&nbsp;
