@@ -13,7 +13,7 @@
 <h2> ✍ About me </h2>   
 
 - 🔍 I am currently finding the 'any' key to close my debugging console.
-- 📚 Todo list: Learn Angular, Java Spring, Flutter, Rust and reach level 40 in Pokémon GO 
+- 📚 Todo list: Check out Docker, Angular, Spring Boot, Flutter, Rust and reach level 40 in Pokémon GO 
 - 🤓 I have passion for learning technologies.
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
