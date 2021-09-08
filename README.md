@@ -12,8 +12,7 @@
 
 <h2> ✍ About me </h2>   
 
-- 🔍 I am currently finding the 'any' key to close my debugging console.
-- 📚 Todo list: Check out Docker, Angular, Spring Boot, Flutter, Rust and reach level 40 in Pokémon GO 
+- 📚 I am currently a last-semester student at Fanshawe College and a part-time Software Engineer at OEConnection
 - 🤓 I have passion for learning technologies.
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
@@ -48,7 +47,42 @@
 -->
 </h4>  
 
+<h2> 📅 Recent Projects </h2>
 
+<h3> On-going </h3>
+
+<details>
+    
+- [Data Structures & Algorithms in C++](https://github.com/minhvo-dev/Data-Structures-and-Algorithms-in-CPP)
+- Portfolio   
+    - [Frontend](https://github.com/minhvo-dev/minhvo-dev.github.io)
+    - [Backend](https://github.com/minhvo-dev/Portfolio-Backend-GraphQL)
+- [Project Euler](https://github.com/minhvo-dev/Project-Euler-Solutions)
+    
+</details>
+
+<h3> Completed </h3>
+
+<details>
+    
+- [Contact+](https://github.com/minhvo-dev/React-Native-Contacts-Plus-App)
+- [Minhsenger™](https://github.com/minhvo-dev/React-Socket.io-Minhsenger)
+- [Greedy Game App](https://github.com/minhvo-dev/WCF-Greedy-Game)
+- [Worldwide Travel Alert App](https://github.com/minhvo-dev/Worldwide-Travel-Alert)
+- [Patientor App](https://github.com/minhvo-dev/MOOC.fi-Full-Stack-Open-2020/tree/dev/part_09/patientor)
+- [Rate Repository App](https://github.com/minhvo-dev/MOOC.fi-React-Native-2020")
+- [PokéMart](https://github.com/minhvo-dev/Vue.JS-ASP.NETCore-PokeMart)
+
+</details>
+    
+<h3> Private </h3>
+
+<details>
+
+- Of course, they are private 😁
+
+</details>
+    
 <h2> 📈 GitHub Stats</h2>
 
 >Note: These stats are just a github metric, they do not indicate my skill level by any means.   
