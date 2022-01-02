@@ -12,12 +12,13 @@
 
 <h2> ✍ About me </h2>   
 
-- 📚 I am currently a last-semester student at Fanshawe College and a part-time Software Engineer at OEConnection
-- 🤓 I have passion for learning technologies.
+- ♟  Day coder, night walker
+- 🤓 I have passion for learning technologies
 - 💬 Pronouns: he/him
 - ✨ Hobbies: reading, travelling and playing Pokémon GO 
 - 😂 Fun facts:
     - I am a programmer. But instead of ☕, I can run on 💧 to produce code 😎   
+    - I attract more bugs than others, seriously 😅
     - <a href="https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)" target="_blank"><img alt="Pikachu" width="26px" src="https://img.icons8.com/color/344/pikachu-pokemon.png"></a> is overrated, <a href="https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)" target="_blank"><img alt="Eevee" width="26px" src="https://img.icons8.com/color/344/eevee.png"></a> ftw !!!
     - I ❤ 🐶 😸
 
