@@ -27,21 +27,23 @@
 <h4 align="center">   
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="cpp" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a> &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img alt="csharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a> &nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a> &nbsp;&nbsp;
+<!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a> &nbsp;&nbsp; -->
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" /></a> &nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" /></a> &nbsp;&nbsp; 
+<!-- <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" /></a> &nbsp;&nbsp;  -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="html5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a> &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank"><img alt="css" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" /></a> &nbsp;&nbsp; 
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" /></a> &nbsp;&nbsp;
+<!-- <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" /></a> &nbsp;&nbsp; -->
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="sql" width="26px" src="https://img.icons8.com/ultraviolet/452/database.png" /></a>
 <br/>
-<a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img alt="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a> &nbsp;&nbsp;
+<!-- <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img alt="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a> &nbsp;&nbsp; -->
 <a href="https://en.wikipedia.org/wiki/React_(web_framework)" target="_blank"><img alt="react" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png" /></a> &nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank"><img alt="graphql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" /></a> &nbsp;&nbsp;
+<!-- <a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank"><img alt="graphql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" /></a> &nbsp;&nbsp; -->
 <!--
 <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank"><img alt="vs" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" /></a> &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img alt="vscode" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a> &nbsp;&nbsp;
 -->
+<a href="https://specflow.org/" target="_blank"><img alt="specflow" width="22px" src="https://avatars.githubusercontent.com/u/59612771?s=200&v=4" /></a> &nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/odata/" target="_blank"><img alt="odata" width="22px" src="https://avatars.githubusercontent.com/u/916520?s=200&v=4" /></a> &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/></a> &nbsp;&nbsp;
 <!--
 <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img alt="github" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
